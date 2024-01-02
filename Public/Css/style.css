@@ -70,14 +70,14 @@ color: #f7f7f5;
 text-align: center;
 }
 
-image img {
+.image img {
   width: 100%;
   height: auto;
   object-fit: cover;
   transition: 0.5s all ease-in-out;
 }
 
-image img:hover {
+.image img:hover {
   transform: scale(1.05);
 }
 
